@@ -10,7 +10,8 @@ Ce site a été réalisé dans le but de présenter mes premiers projets et de m
 ## 🛠️ Technologies utilisées
 
 - HTML5  
-- CSS3  
+- CSS3
+- javascript
 - GitHub Pages (hébergement)
 
 ---
